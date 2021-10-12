@@ -1,0 +1,3 @@
+EXPORTS
+    RegisterCallbacks @1
+    check @2
